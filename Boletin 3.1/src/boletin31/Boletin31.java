@@ -6,7 +6,7 @@ public class Boletin31 {
 
    
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code applicationgic here
         
     Coche coche1 = new Coche();
     
